@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 class MyHomePage extends StatelessWidget {
-  MyHomePage({super.key, required ColorScheme colorScheme}); //sudah ada pada code sebelumnya
+  MyHomePage({super.key}); //sudah ada pada code sebelumnya
 
   final List<ItemHomepage> items = [
     ItemHomepage("See Football News", Icons.newspaper),
