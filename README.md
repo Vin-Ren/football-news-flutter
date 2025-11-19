@@ -3,7 +3,7 @@
 [![Build Status](https://app.bitrise.io/app/d476dd5a-5173-49b3-a47c-ef8f292baf8b/status.svg?token=-8H0E6iWfc5EVug4K7JeRA&branch=main)](https://app.bitrise.io/app/d476dd5a-5173-49b3-a47c-ef8f292baf8b)
 
 ## Download
-Download aplikasi versi terbaru: [Download APK](https://app.bitrise.io/app/YOUR_APP_ID/installable-artifacts/YOUR_ARTIFACT_ID/public-install-page/YOUR_PAGE_ID)
+Download aplikasi versi terbaru: [Download APK](https://app.bitrise.io/app/d476dd5a-5173-49b3-a47c-ef8f292baf8b/installable-artifacts/58d43b2cd45c8c82/public-install-page/f5423a1a701ce1ab32b61a079e9cd179)
 
 A new Flutter project.
 
